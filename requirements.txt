@@ -1,0 +1,8 @@
+appdirs==1.4.4
+certifi==2020.12.5
+distlib==0.3.1
+filelock==3.0.12
+filetype==1.0.7
+meson==0.56.2
+six==1.15.0
+virtualenv==20.4.0
