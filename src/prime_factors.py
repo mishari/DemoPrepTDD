@@ -6,5 +6,5 @@ def prime_factors(n):
     else:
         for i in range(3, n):
             if n % i  == 0:
-                return [i] + prime_factors(n // i)
+                return i
         return [n]
